@@ -1,8 +1,5 @@
 export default class HolbertonCourse {
   constructor(name, length, students) {
-    this._name = undefined;
-    this._length = undefined;
-    this._students = undefined;
     this.name = name;
     this.length = length;
     this.students = students;
