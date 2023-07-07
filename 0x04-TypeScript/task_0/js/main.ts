@@ -20,7 +20,7 @@ let student2: Student = {
 }
 
 let studentsList: Student[] = [student1, student2];
-
+//console.log(studentsList);
 let studentTable = document.createElement("table");
 
 //loop through students list
@@ -42,3 +42,4 @@ studentsList.forEach(student => {
     studentTable.appendChild(row);
 });
 
+document.body.appendChild(studentTable);
