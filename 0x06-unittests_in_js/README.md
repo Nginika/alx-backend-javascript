@@ -1,1 +1,3 @@
-Unittesting in javascript using mocha chai and sinon
+###Unittests in JS###
+
+Unittests in JS using mocha chai and senon
